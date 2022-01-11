@@ -9,7 +9,8 @@
     "@slidev/cli": "^0.27.20",
     "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-geist": "^0.6.0"
   },
   "name": "sturm-drang"
 }

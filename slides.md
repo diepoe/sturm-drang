@@ -1,21 +1,11 @@
 ---
-# try also 'default' to start simple
-theme: seriph
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: https://upload.wikimedia.org/wikipedia/commons/0/0f/Goethe_1774.JPG
-# apply any windi css classes to the current slide
-class: "text-center"
-# https://sli.dev/custom/highlighters.html
-highlighter: shiki
-# show line numbers in code blocks
-lineNumbers: false
+theme: geist
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## Sturm & Drang
+  Über die Epoche der jungen Dichter & Denker
 
-  Learn more at [Sli.dev](https://sli.dev)
+  Ein Referat von Luca & Dietrich
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -49,19 +39,22 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 # Agenda
 
-<ol class="list-decimal">
+<ol class="list-decimal list-inside">
   <li>
       Geschichtlicher Hintergrund
   </li>
   <li>
-      Ebd
-  </li>
-  <li>
-      Ende
+      Literarische Betrachtung der Epoche
   </li>
 </ol>
+
 
 ---
 layout: cover
 ---
 # Geschichtlicher Hintergrund
+
+---
+layout: cover
+---
+# Literarische Betrachtung der Epoche
