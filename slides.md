@@ -116,7 +116,8 @@ layout: cover
 
 # Quellen
 
-https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/
+- Schulbuch
+- https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/
 
 ---
 layout: cover
