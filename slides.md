@@ -21,7 +21,7 @@ Eine literarische Strömung der Aufklärung
   </span>
 </div>
 
-<div class="relative -bottom-8 text-gray-700 dark:text-gray-200">
+<div class="relative -bottom-8 text-gray-700 dark:text-gray-300">
   Ein Referat von Luca D'Aguanno und Dietrich Poensgen
 </div>
 
@@ -53,18 +53,10 @@ layout: cover
 # Geschichtlicher Hintergrund
 
 ---
-layout: cover
----
 
 # Allgemein
 
-❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗
-
----
-layout: cover
----
-
-# 🤡
+<!--❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗-->
 
 ---
 layout: cover
@@ -123,13 +115,14 @@ layout: cover
 <p>~ Johann Wolfgang von Goethe</p>
 
 ---
-layout: cover
----
 
 # Quellen
 
-- Schulbuch
-- https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/
+<ul class="list-disc list-inside">
+  <li>Schulbuch</li>
+  <li><a class="hover:underline" href="https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/">https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/</a></li>
+  <li>giphy.com</li>
+</ul>
 
 ---
 layout: cover
