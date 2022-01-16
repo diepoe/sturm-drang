@@ -74,37 +74,49 @@ layout: cover
 
 ---
 
-<h1 class="-mt-3">Heidenröslein</h1>
+<h1 class="-mt-3">An den Mond</h1>
 
 <blockquote class="border-l-2 border-gray-400 py-2 px-4 text-lg dark:text-gray-100 columns-2">
 <p>
-  Sah ein Knab' ein Röslein stehn,<br/>
-  Röslein auf der Heiden,<br />
-  War so jung und morgenschön,<br />
-  Lief er schnell es nah zu sehn,<br />
-  Sah's mit vielen Freuden.<br />
-  Röslein, Röslein, Röslein rot,<br />
-  Röslein auf der Heiden.
+  Füllest wieder Busch und Tal<br/>
+  Still mit Nebelglanz.<br />
+  Lösest endlich auch einmal<br />
+  Meine Seele ganz;
 </p>
 
 <p>
-  Knabe sprach: ich breche dich,<br />
-  Röslein auf der Heiden!<br />
-  Röslein sprach: ich steche dich,<br />
-  Daß du ewig denkst an mich,<br />
-  Und ich will's nicht leiden.<br />
-  Röslein, Röslein, Röslein rot,<br />
-  Röslein auf der Heiden.
+  Breitest über mein Gefild<br />
+  Lindern deinen Blick.<br />
+  Wie des Freundes Auge mild<br />
+  Über mein Geschick.
 </p>
 
 <p>
-  Und der wilde Knabe brach <br />
-  's Röslein auf der Heiden;<br />
-  Röslein wehrte sich und stach,<br />
-  Half ihm doch kein Weh und Ach,<br />
-  Mußt es eben leiden.<br />
-  Röslein, Röslein, Röslein rot,<br />
-  Röslein auf der Heiden.
+  Jeden Nachklang fühlt mein Herz<br />
+  Froh und trüber Zeit,<br />
+  Wandle zwischen Freud' und Schmerz<br />
+  In der Einsamkeit
+</p>
+
+<p>
+  Fließe, fließe, lieber Fluss!<br />
+  Nimmer werd' ich froh,<br />
+  So verrauschte Scherz und Kuss.<br />
+  Und die Treue so.
+</p>
+
+<p>
+  Ich besaß es doch einmal.<br />
+  Was so köstlich ist!<br />
+  Dass man doch zu seiner Qual<br />
+  Nimmer es vergisst!
+</p>
+
+<p>
+  Rausche, Fluss, das Tal entlang,<br />
+  Ohne Rast und Ruh.<br />
+  Rausche, flüstre meinen Sang<br />
+  Melodien zu.
 </p>
 </blockquote>
 
