@@ -60,8 +60,21 @@ layout: cover
 
 - Autoren meist aus ärmlichen Verhältnisse; Jugendbewegung ➡️ Protest
 
+- Strömung ist dominiert von Dramen
+
+<v-click>
+
+- Autoren/Werke
+  - Johann Wolfgang Goethe (*Die Leiden des jungen Werther*)
+  - Friedrich Schiller (*Die Räuber*)
+
+</v-click>
+
 <!--
+TODO: mehr Inhalt in Autoren/Werke Abschnitt
 zu 1: Friedrich Maximiliam Klinger war zu dieser Zeit ein enger Freund Goethes
+
+CLICK 1: Autoren/Beispielwerke
 -->
 
 ---
@@ -71,25 +84,53 @@ zu 1: Friedrich Maximiliam Klinger war zu dieser Zeit ein enger Freund Goethes
 - zu dieser Zeit deutsche Kleinstaaterei ➡️ viele Konflikte
 - Bürgertum gewinnt an Relevanz
 - Aufklärung dominiert zu dieser Zeit
-  - Autoren richten sich gegen Rationalität der Aufklärung
+
+<v-click>
+  <div class="px-3 py-4 my-3 rounded-md w-full bg-gray-100 dark:bg-gray-800"><span class="mr-1">➡️</span> Autoren richten sich gegen Rationalität der Aufklärung</div>
+</v-click>
 
 <!--
-Rationalität ➡️ vernunftgesteuertes Handeln des Menschen (René Descartes war Vorreiter)
+Rationalität und genaues Planen wurde zur Expansion strikter Verwaltungssysteme genutzt, Sturm und Drang protestiert gegen diese Reduzierung der Menschen auf ihren Nutzen für ein System und für das emphatische Wesen im Menschen
+
+👉 Rationalität ➡️ vernunftgesteuertes Handeln des Menschen (René Descartes war Vorreiter)
+
+CLICK1: Fazit: Anti-Rationaliät
 -->
 
 ---
 
 # Literarische Merkmale
 
-<div class="px-3 py-4 rounded-md w-full bg-gray-100 dark:bg-gray-800"><span class="mr-1">☝️</span> politischer Widerstand gegen etabliertes System steht meist im Zentrum</div>
+<div class="px-3 py-4 mb-3 rounded-md w-full bg-gray-100 dark:bg-gray-800"><span class="mr-1">☝️</span> politischer Widerstand gegen etabliertes System steht meist im Zentrum der Werke</div>
 
-<!--TODO: auf spezifische Motive eingehen-->
+<v-click>
 
+### spezifische Motive:
+  
+- „Kindsmörder-Motiv“
+- „Feindliche Brüder“
+- „Faustisches Gefühl“
+- Pantheismus (*„überall ist Gott“*)
 
-
+</v-click>
 
 <!--
+TODO: verbleibende Motiverklärungen recherchieren // evtl. Liste mit v-click/v-clicks für einzelne Elemente gestalten
+
 ❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗
+
+CLICK 1: Motivliste:
+
+- „Kindsmörder-Motiv“
+	- viele uneheliche Kinder (damals Schande) wurden zur Verheimlichung einfach getötet; Abtreibungen fast unmöglich
+    ➡️ oft Motiv für Täuschung & Verführung
+    - Motiv erleichtert Ausdrücken von Gefühlen
+
+- „Feindliche Brüder“
+
+- „Faustisches Gefühl“
+	- Ursprung aus Goethes Werk Faust
+- Pantheismus (*„überall ist Gott“*)
 -->
 
 ---
@@ -148,13 +189,18 @@ layout: cover
 
 <p>~ Johann Wolfgang von Goethe</p>
 
+<!--
+TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen zu Motiven!
+-->
+
 ---
 
 # Quellen
 
 <ul class="list-disc list-inside">
   <li>Schulbuch</li>
-  <li><a href="https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/">https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/</a></li>
+  <li><a href="https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/" target="_blank">https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/</a></li>
+  <li><a target="_blank" href="https://prezi.com/ahd1yvhwpqgb/das-kindsmordmotiv-im-sturm-und-drang/">https://prezi.com/ahd1yvhwpqgb/das-kindsmordmotiv-im-sturm-und-drang/</a></li>
   <li>giphy.com</li>
 </ul>
 
