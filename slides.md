@@ -1,5 +1,5 @@
 ---
-theme: geist
+theme: default
 # some information about the slides, markdown enabled
 info: |
   ## Sturm & Drang
@@ -13,15 +13,9 @@ drawings:
 
 # Sturm & Drang 🌬️
 
-Eine literarische Strömung der Aufklärung
+<p class="pl-1">Eine literarische Strömung der Aufklärung</p>
 
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Los geht's! <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<div class="relative -bottom-8 text-gray-700 dark:text-gray-300">
+<div class="relative w-full text-right -bottom-38 text-gray-700 dark:text-gray-300">
   Ein Referat von Luca D'Aguanno und Dietrich Poensgen
 </div>
 
@@ -66,9 +60,9 @@ layout: cover
 
 ---
 
-<h1 class="-mt-2">An den Mond</h1>
+<h1>An den Mond</h1>
 
-<blockquote class="border-l-2 border-gray-400 px-4 text-lg dark:text-gray-100 columns-2">
+<div class="border-l-2 border-gray-400 bg-transparent px-4 text-lg dark:text-gray-100 columns-2 rounded-none">
 <p>
   Füllest wieder Busch und Tal<br/>
   Still mit Nebelglanz.<br />
@@ -110,7 +104,7 @@ layout: cover
   Rausche, flüstre meinen Sang<br />
   Melodien zu.
 </p>
-</blockquote>
+</div>
 
 <p>~ Johann Wolfgang von Goethe</p>
 
@@ -120,7 +114,7 @@ layout: cover
 
 <ul class="list-disc list-inside">
   <li>Schulbuch</li>
-  <li><a class="hover:underline" href="https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/">https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/</a></li>
+  <li><a href="https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/">https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/</a></li>
   <li>giphy.com</li>
 </ul>
 
