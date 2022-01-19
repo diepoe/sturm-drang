@@ -106,16 +106,23 @@ CLICK1: Fazit: Anti-Rationaliät
 <v-click>
 
 ### spezifische Motive:
-  
-- „Kindsmörder-Motiv“
-- „Feindliche Brüder“
-- „Faustisches Gefühl“
-- Pantheismus (*„überall ist Gott“*)
 
 </v-click>
+  
+<v-clicks>
+
+- „Kindsmörder-Motiv“
+
+- „Feindliche Brüder“
+
+- „Faustisches Gefühl“
+
+- Pantheismus (*„überall ist Gott“*)
+
+</v-clicks>
 
 <!--
-TODO: verbleibende Motiverklärungen recherchieren // evtl. Liste mit v-click/v-clicks für einzelne Elemente gestalten
+TODO: verbleibende Motiverklärungen recherchieren
 
 ❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗
 
