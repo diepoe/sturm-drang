@@ -29,12 +29,16 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 <ol class="list-decimal list-inside">
   <li>
-      Geschichtlicher Hintergrund
+      Hintergrund der Epoche
   </li>
-  <li>
+  <ul class="ml-4 pl-2 list-inside" style="list-style-type: lower-latin;">
+    <li>Geschichtlicher Hintergrund</li>
+    <li>Literarische Merkmale</li>
+  </ul>
+  <li class="mt-2">
       Literarische Betrachtung der Epoche
   </li>
-  <ul class="ml-4 list-disc list-inside">
+  <ul class="ml-4 pl-2 list-inside" style="list-style-type: lower-latin;">
     <li>Beispielgedicht</li>
     <li>Analyse des Gedichts</li>
   </ul>
@@ -44,13 +48,49 @@ The last comment block of each slide will be treated as slide notes. It will be 
 layout: cover
 ---
 
-# Geschichtlicher Hintergrund
+# Hintergrund der Epoche
 
 ---
 
 # Allgemein
 
-<!--❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗-->
+- Begriff *Sturm und Drang* geht auf 1776 verfasste Komödie von Friedrich Maximilian Klinger zurück
+
+- Strömung im Zeitraum 1765 bis 1785
+
+- Autoren meist aus ärmlichen Verhältnisse; Jugendbewegung ➡️ Protest
+
+<!--
+zu 1: Friedrich Maximiliam Klinger war zu dieser Zeit ein enger Freund Goethes
+-->
+
+---
+
+# Geschichtlicher Hintergrund
+
+- zu dieser Zeit deutsche Kleinstaaterei ➡️ viele Konflikte
+- Bürgertum gewinnt an Relevanz
+- Aufklärung dominiert zu dieser Zeit
+  - Autoren richten sich gegen Rationalität der Aufklärung
+
+<!--
+Rationalität ➡️ vernunftgesteuertes Handeln des Menschen (René Descartes war Vorreiter)
+-->
+
+---
+
+# Literarische Merkmale
+
+<div class="px-3 py-4 rounded-md w-full bg-gray-100 dark:bg-gray-800"><span class="mr-1">☝️</span> politischer Widerstand gegen etabliertes System steht meist im Zentrum</div>
+
+<!--TODO: auf spezifische Motive eingehen-->
+
+
+
+
+<!--
+❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗
+-->
 
 ---
 layout: cover
