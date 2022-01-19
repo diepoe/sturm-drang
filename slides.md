@@ -68,7 +68,7 @@ layout: cover
 
 <h1 class="-mt-2">An den Mond</h1>
 
-<blockquote class="border-l-2 border-gray-400 px-4 text-lg dark:text-gray-100 columns-2">
+<blockquote class="border-l-2 border-gray-400 px-4 text-lg dark:text-gray-100 columns-3">
 <p>
   Füllest wieder Busch und Tal<br/>
   Still mit Nebelglanz.<br />
@@ -110,10 +110,42 @@ layout: cover
   Rausche, flüstre meinen Sang<br />
   Melodien zu.
 </p>
+
+<p>
+  Wenn du in der Winternacht<br />
+  Wütend überschwillst<br />
+  Oder um die Frühlingspracht<br />
+  Junger Knospen quillst.
+</p>
+
+<p>
+  Selig, wer sich vor der Welt<br />
+  Ohne Hass verschließt,<br />
+  Einen Freund am Busen hält<br />
+  Und mit dem genießt,
+</p>
+
+<p>
+  Was, von Menschen nicht gewussty<br />
+  Oder nicht bedacht,<br />
+  Durch das Labyrinth der Brust<br />
+  Wandelt in der Nacht.
+</p>
 </blockquote>
 
 <p>~ Johann Wolfgang von Goethe</p>
 
+---
+---
+# Formalien
+
+<ul class="list-disc list-inside">
+  <li>Schulbuch</li>
+  <li><a class="hover:underline" href="https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/">https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/</a></li>
+  <li>giphy.com</li>
+</ul>
+
+---
 ---
 
 # Quellen
