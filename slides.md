@@ -148,9 +148,9 @@ layout: cover
 
 ---
 
-<h1>An den Mond</h1>
+<h1 class="-mt-2">An den Mond</h1>
 
-<div class="border-l-2 border-gray-400 bg-transparent px-4 text-lg dark:text-gray-100 columns-2 rounded-none">
+<blockquote class="border-l-2 border-gray-400 px-4 text-lg dark:text-gray-100 columns-3 rounded-none bg-transparent">
 <p>
   Füllest wieder Busch und Tal<br/>
   Still mit Nebelglanz.<br />
@@ -192,7 +192,28 @@ layout: cover
   Rausche, flüstre meinen Sang<br />
   Melodien zu.
 </p>
-</div>
+
+<p>
+  Wenn du in der Winternacht<br />
+  Wütend überschwillst<br />
+  Oder um die Frühlingspracht<br />
+  Junger Knospen quillst.
+</p>
+
+<p>
+  Selig, wer sich vor der Welt<br />
+  Ohne Hass verschließt,<br />
+  Einen Freund am Busen hält<br />
+  Und mit dem genießt,
+</p>
+
+<p>
+  Was, von Menschen nicht gewussty<br />
+  Oder nicht bedacht,<br />
+  Durch das Labyrinth der Brust<br />
+  Wandelt in der Nacht.
+</p>
+</blockquote>
 
 <p>~ Johann Wolfgang von Goethe</p>
 
@@ -200,6 +221,17 @@ layout: cover
 TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen zu Motiven!
 -->
 
+---
+---
+# Formalien
+
+<ul class="list-disc list-inside">
+  <li>Dann</li>
+  <li>hier</li>
+  <li>was</li>
+</ul>
+
+---
 ---
 
 # Quellen
