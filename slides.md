@@ -150,7 +150,7 @@ layout: cover
 
 <h1 class="-mt-2">An den Mond</h1>
 
-<blockquote class="border-l-2 border-gray-400 px-4 text-lg dark:text-gray-100 columns-3">
+<blockquote class="border-l-2 border-gray-400 px-4 text-lg dark:text-gray-100 columns-3 rounded-none bg-transparent">
 <p>
   Füllest wieder Busch und Tal<br/>
   Still mit Nebelglanz.<br />
