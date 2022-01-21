@@ -137,7 +137,9 @@ CLICK 1: Motivliste:
 
 - „Faustisches Gefühl“
 	- Ursprung aus Goethes Werk Faust
-- Pantheismus (*„überall ist Gott“*)
+- Pantheismus (*„überall ist Gott“*) -> siehe Buch (siehe S. 204)
+  - Einheit von Gott und Natur; Spinoza: „Deus sive natura“ (Gott ist Natur)
+  - Goethe verknüpft dies mit dem Gefühl der Einheit von allem
 -->
 
 ---
