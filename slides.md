@@ -133,6 +133,7 @@ CLICKLIST 1: Motivliste:
 	- viele uneheliche Kinder (damals Schande) wurden zur Verheimlichung einfach getötet; Abtreibungen fast unmöglich
     ➡️ oft Motiv für Täuschung & Verführung
     - Motiv erleichtert Ausdrücken von Gefühlen
+  - Verwendung des Motivs ein gewisser Tabubruch
 
 - „Feindliche Brüder“
   - Bekannte Tatsache: Konflikte zwischen Geschwistern sind real
