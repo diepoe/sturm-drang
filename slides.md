@@ -75,6 +75,7 @@ TODO: mehr Inhalt in Autoren/Werke Abschnitt
 zu 1: Friedrich Maximiliam Klinger war zu dieser Zeit ein enger Freund Goethes
 
 CLICK 1: Autoren/Beispielwerke
+- "Leiden des jungen Werther" trifft Nerv der Zeit und ist damals "Topseller" ➡️ "Wertherfieber" bricht aus
 -->
 
 ---
@@ -122,22 +123,31 @@ CLICK1: Fazit: Anti-Rationaliät
 </v-clicks>
 
 <!--
-TODO: verbleibende Motiverklärungen recherchieren
+TODO: faustischs Gefühl Anfrage bei Hl abwarten; dann einarbeiten
 
 ❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗
 
-CLICK 1: Motivliste:
+CLICKLIST 1: Motivliste:
 
 - „Kindsmörder-Motiv“
 	- viele uneheliche Kinder (damals Schande) wurden zur Verheimlichung einfach getötet; Abtreibungen fast unmöglich
     ➡️ oft Motiv für Täuschung & Verführung
     - Motiv erleichtert Ausdrücken von Gefühlen
+  - Verwendung des Motivs ein gewisser Tabubruch
 
 - „Feindliche Brüder“
+  - Bekannte Tatsache: Konflikte zwischen Geschwistern sind real
+  - Aufgrund damaliger (bürgerlichen) Vererbungspraktiken wurden bestimmte (speziell jüngere) Geschwister meist benachteiligt ➡️ Konfliktpotenzial, dass von Autoren aufgegriffen wird
+  - Schillers "Die Räuber" ist Paradebeispiel
 
 - „Faustisches Gefühl“
 	- Ursprung aus Goethes Werk Faust
-- Pantheismus (*„überall ist Gott“*) -> siehe Buch (siehe S. 204)
+  - Drückt Gefühl der Zwiespältigkeit Gut ↔️ Böse aus
+
+- Pantheismus (Motto: *„überall ist Gott“*) ➡️ siehe Buch (siehe S. 204)
+  - Zusammensetzung des Begriffs:
+    - Pan (griechischer Natur-/Hirtengott)
+    - θεὺς (theùs) ➡️ Gott
   - Einheit von Gott und Natur; Spinoza: „Deus sive natura“ (Gott ist Natur)
   - Goethe verknüpft dies mit dem Gefühl der Einheit von allem
 -->
