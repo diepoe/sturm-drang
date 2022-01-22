@@ -208,7 +208,7 @@ layout: cover
 </p>
 
 <p>
-  Was, von Menschen nicht gewussty<br />
+  Was, von Menschen nicht gewusst<br />
   Oder nicht bedacht,<br />
   Durch das Labyrinth der Brust<br />
   Wandelt in der Nacht.
@@ -223,12 +223,23 @@ TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen z
 
 ---
 ---
+# Inhalt
+<ul class="list-disc list-inside">
+  <li></li>
+  <li>Kreuzreimschema</li>
+  <li></li>
+  <li></li>
+</ul>
+
+---
+---
 # Formalien
 
 <ul class="list-disc list-inside">
-  <li>Dann</li>
-  <li>hier</li>
-  <li>was</li>
+  <li>9 Strophne á 4 Verse</li>
+  <li>Kreuzreimschema</li>
+  <li>vier- und dreihebiger Trochäus</li>
+  <li>stumpfe Kadenzen in jedem Vers</li>
 </ul>
 
 ---
