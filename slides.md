@@ -123,8 +123,6 @@ CLICK1: Fazit: Anti-Rationaliät
 </v-clicks>
 
 <!--
-TODO: faustischs Gefühl Anfrage bei Hl abwarten; dann einarbeiten
-
 ❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗
 
 CLICKLIST 1: Motivliste:
