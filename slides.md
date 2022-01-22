@@ -142,14 +142,14 @@ CLICKLIST 1: Motivliste:
 
 - „Faustisches Gefühl“
 	- Ursprung aus Goethes Werk Faust
-  - Drückt Gefühl der Zwiespältigkeit Gut ↔️ Böse aus
+  - Drückt Gefühl der Zwiespältigkeit Gut ↔️ Böse, Pflicht ↔️ Wunsch, Lebensdrang und Todeswunschund zwischen Leidenschaft und Askese  aus
 
 - Pantheismus (Motto: *„überall ist Gott“*) ➡️ siehe Buch (siehe S. 204)
   - Zusammensetzung des Begriffs:
     - Pan (griechischer Natur-/Hirtengott)
     - θεὺς (theùs) ➡️ Gott
   - Einheit von Gott und Natur; Spinoza: „Deus sive natura“ (Gott ist Natur)
-  - Goethe verknüpft dies mit dem Gefühl der Einheit von allem
+  - Goethe verknüpft dies mit dem Gefühl der Einheit von Allem
 -->
 
 ---
