@@ -220,7 +220,7 @@ layout: cover
 </p>
 
 <p>
-  Was, von Menschen nicht gewussty<br />
+  Was, von Menschen nicht gewusst<br />
   Oder nicht bedacht,<br />
   Durch das Labyrinth der Brust<br />
   Wandelt in der Nacht.
@@ -232,20 +232,112 @@ layout: cover
 <!--
 TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen zu Motiven!
 -->
+---
+---
+
+# Inhalt
+<ul class="list-disc list-inside">
+  <li>Beschreibung einer nächtlichen Naturszene</li>
+  <li>Thema ist der Verlust von Liebe und Freundschaft</li>
+  <li>Der einsame, nächtliche Rückzug in die Natur steht für den Trost der Enttäuschungen und Frustationen</li>
+</ul>
+
 
 ---
 ---
 # Formalien
 
 <ul class="list-disc list-inside">
-  <li>Dann</li>
-  <li>hier</li>
-  <li>was</li>
+  <li>9 Strophne á 4 Verse</li>
+  <li>Kreuzreimschema</li>
+  <li>vier- und dreihebiger Trochäus</li>
+  <li>stumpfe Kadenzen in jedem Vers</li>
+  <li>RHYTHMUS!!!?</li>
 </ul>
 
 ---
 ---
+# Sprache 
 
+<div class="text-black relative left-140 inline-block">
+  <p>
+    Füllest wieder Busch und Tal<br/>
+    Still mit Nebelglanz.<br />
+    Lösest endlich auch einmal<br />
+    Meine Seele ganz;
+  </p>
+  
+  <p>
+    Breitest über mein Gefild<br />
+    Lindern deinen Blick.<br />
+    Wie des Freundes Auge mild<br />
+    Über mein Geschick.
+  </p>
+  
+  <p>
+    Jeden Nachklang fühlt mein Herz<br />
+    Froh und trüber Zeit,<br />
+    Wandle zwischen Freud' und Schmerz<br />
+    In der Einsamkeit
+  </p>
+</div>
+
+---
+---
+# Sprache
+
+<div class="text-black relative left-140 inline-block">
+  <p>
+    Fließe, fließe, lieber Fluss!<br />
+    Nimmer werd' ich froh,<br />
+    So verrauschte Scherz und Kuss.<br />
+    Und die Treue so.
+  </p>
+  
+  <p>
+    Ich besaß es doch einmal.<br />
+    Was so köstlich ist!<br />
+    Dass man doch zu seiner Qual<br />
+    Nimmer es vergisst!
+  </p>
+  
+  <p>
+    Rausche, Fluss, das Tal entlang,<br />
+    Ohne Rast und Ruh.<br />
+    Rausche, flüstre meinen Sang<br />
+    Melodien zu.
+  </p>
+</div>
+
+---
+---
+# Sprache 
+
+<div class="text-black relative left-140 inline-block">
+  <p>
+    Wenn du in der Winternacht<br />
+    Wütend überschwillst<br />
+    Oder um die Frühlingspracht<br />
+    Junger Knospen quillst.
+  </p>
+  
+  <p>
+    Selig, wer sich vor der Welt<br />
+    Ohne Hass verschließt,<br />
+    Einen Freund am Busen hält<br />
+    Und mit dem genießt,
+  </p>
+  
+  <p>
+    Was, von Menschen nicht gewusst<br />
+    Oder nicht bedacht,<br />
+    Durch das Labyrinth der Brust<br />
+    Wandelt in der Nacht.
+  </p>
+</div>
+
+---
+---
 # Quellen
 
 <ul class="list-disc list-inside">
