@@ -250,7 +250,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 <ul class="list-disc list-inside">
   <li>Beschreibung einer nächtlichen Naturszene</li>
   <li>Thema ist der Verlust von Liebe und Freundschaft</li>
-  <li>Der einsame, nächtliche Rückzug in die Natur steht für den Trost der Enttäuschungen und Frustationen</li>
+  <li>Rückzug in die Natur bei Nacht</li>
 </ul>
 
 
