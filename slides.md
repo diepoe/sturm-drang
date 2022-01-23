@@ -284,10 +284,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 
 <ul class="list-disc list-inside">
   <li><span class="text-blue-300">Oxymoron</span></li>
-  <li></li>
   <li><span class="text-yellow-300">Personifikation</span></li>
-  <li></li>
-  <li></li>
 </ul>
 
 <div class="text-black relative left-140 -top-45 inline-block">
@@ -323,10 +320,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 
 <ul class="list-disc list-inside">
   <li><span class="text-green-500">Metapher</span></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+
 </ul>
 
 <div class="text-black relative left-140 -top-45 inline-block">
@@ -361,9 +355,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 <ul class="list-disc list-inside">
   <li><span class="text-pink-500">Antithese</span></li>
   <li><span class="text-green-500">Metapher</span></li>
-  <li></li>
-  <li></li>
-  <li></li>
+
 </ul>
 
 <div class="text-black relative left-140 -top-45 inline-block">
@@ -414,3 +406,4 @@ layout: cover
 <h1 class="text-center">Danke für eure Aufmerksamkeit</h1>
 
 <img src="/img/ricki.gif" alt="ricki" class="m-auto" />
+
