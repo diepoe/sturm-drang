@@ -282,32 +282,32 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 ---
 # Sprachliche Gestaltung 
 
-<ul class="list-disc list-inside">
-  <li><span class="text-blue-300">Oxymoron</span></li>
-  <li><span class="text-yellow-300">Personifikation</span></li>
-</ul>
-
-<div class="text-black relative left-140 -top-45 inline-block">
-  <p>
-    Füllest wieder Busch und Tal<br/>
-    Still mit <span class="bg-blue-300 rounded">Nebelglanz</span>.<br />
-    Lösest endlich auch einmal<br />
-    Meine Seele ganz;
-  </p>
+<div class="grid grid-cols-2">
+  <ul class="list-disc list-inside">
+    <li><span class="text-blue-400">Oxymoron</span></li>
+    <li><span class="text-yellow-400">Personifikation</span></li>
+  </ul>
   
-  <p>
-    Breitest über mein Gefild<br />
-    Lindern deinen Blick.<br />
-    Wie des Freundes Auge mild<br />
-    Über mein Geschick.
-  </p>
-  
-  <p>
-    Jeden Nachklang <span class="bg-yellow-300 rounded">fühlt mein Herz</span><br />
-    Froh und trüber Zeit,<br />
-    Wandle zwischen Freud' und Schmerz<br />
-    In der Einsamkeit
-  </p>
+  <div class="text-black relative inline-block">
+    <p>
+      Füllest wieder Busch und Tal<br/>
+      Still mit <span class="bg-blue-400 rounded">Nebelglanz</span>.<br />
+      Lösest endlich auch einmal<br />
+      Meine Seele ganz;
+    </p>
+    <p>
+      Breitest über mein Gefild<br />
+      Lindern deinen Blick.<br />
+      Wie des Freundes Auge mild<br />
+      Über mein Geschick.
+    </p>
+    <p>
+      Jeden Nachklang <span class="bg-yellow-400 rounded">fühlt mein Herz</span><br />
+      Froh und trüber Zeit,<br />
+      Wandle zwischen Freud' und Schmerz<br />
+      In der Einsamkeit
+    </p>
+  </div>
 </div>
 
 
@@ -318,32 +318,30 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 ---
 # Sprachliche Gestaltung
 
-<ul class="list-disc list-inside">
-  <li><span class="text-green-500">Metapher</span></li>
-
-</ul>
-
-<div class="text-black relative left-140 -top-45 inline-block">
-  <p>
-    <span class="bg-green-500">Fließe, fließe, lieber Fluss!</span><br />
-    Nimmer werd' ich froh,<br />
-    So verrauschte Scherz und Kuss.<br />
-    Und die Treue so.
-  </p>
-  
-  <p>
-    Ich besaß es doch einmal.<br />
-    Was so köstlich ist!<br />
-    Dass man doch zu seiner Qual<br />
-    Nimmer es vergisst!
-  </p>
-  
-  <p>
-    Rausche, Fluss, das Tal entlang,<br />
-    Ohne Rast und Ruh.<br />
-    Rausche, flüstre meinen Sang<br />
-    Melodien zu.
-  </p>
+<div class="grid grid-cols-2">
+  <ul class="list-disc list-inside">
+    <li><span class="text-green-500">Metapher</span></li>
+  </ul>
+  <div class="text-black relative inline-block">
+    <p>
+      <span class="bg-green-400 rounded">Fließe, fließe, lieber Fluss!</span><br />
+      Nimmer werd' ich froh,<br />
+      So verrauschte Scherz und Kuss.<br />
+      Und die Treue so.
+    </p>
+    <p>
+      Ich besaß es doch einmal.<br />
+      Was so köstlich ist!<br />
+      Dass man doch zu seiner Qual<br />
+      Nimmer es vergisst!
+    </p>
+    <p>
+      Rausche, Fluss, das Tal entlang,<br />
+      Ohne Rast und Ruh.<br />
+      Rausche, flüstre meinen Sang<br />
+      Melodien zu.
+    </p>
+  </div>
 </div>
 
 <!-- Metapher für Vergänglichkeit -->
@@ -352,33 +350,31 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 ---
 # Sprachliche Gestaltung
 
-<ul class="list-disc list-inside">
-  <li><span class="text-pink-500">Antithese</span></li>
-  <li><span class="text-green-500">Metapher</span></li>
-
-</ul>
-
-<div class="text-black relative left-140 -top-45 inline-block">
-  <p>
-    Wenn du in der <span class="bg-pink-500 rounded">Winternacht</span><br />
-    Wütend überschwillst<br />
-    Oder um die <span class="bg-pink-500 rounded">Frühlingspracht</span><br />
-    Junger Knospen quillst.
-  </p>
-  
-  <p>
-    Selig, wer sich vor der Welt<br />
-    Ohne Hass verschließt,<br />
-    Einen Freund am Busen hält<br />
-    Und mit dem genießt,
-  </p>
-  
-  <p>
-    Was, von Menschen nicht gewusst<br />
-    Oder nicht bedacht,<br />
-    Durch das Labyrinth der <span class="bg-green-500">Brust</span><br />
-    Wandelt in der Nacht.
-  </p>
+<div class="grid grid-cols-2">
+  <ul class="list-disc list-inside">
+    <li><span class="text-pink-500">Antithese</span></li>
+    <li><span class="text-green-500">Metapher</span></li>
+  </ul>
+  <div class="text-black relative inline-block">
+    <p>
+      Wenn du in der <span class="bg-pink-500 rounded">Winternacht</span><br />
+      Wütend überschwillst<br />
+      Oder um die <span class="bg-pink-500 rounded">Frühlingspracht</span><br />
+      Junger Knospen quillst.
+    </p>
+    <p>
+      Selig, wer sich vor der Welt<br />
+      Ohne Hass verschließt,<br />
+      Einen Freund am Busen hält<br />
+      Und mit dem genießt,
+    </p>
+    <p>
+      Was, von Menschen nicht gewusst<br />
+      Oder nicht bedacht,<br />
+      Durch das Labyrinth der <span class="bg-green-500 rounded">Brust</span><br />
+      Wandelt in der Nacht.
+    </p>
+  </div>
 </div>
 
 
