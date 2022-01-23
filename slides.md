@@ -277,7 +277,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 
 ---
 ---
-# Sprachliche Gestaltung 
+# Sprachliche Gestaltung <small>(I)</small>
 
 <div class="grid grid-cols-2">
   <ul class="list-disc list-inside">
@@ -313,7 +313,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 
 ---
 ---
-# Sprachliche Gestaltung
+# Sprachliche Gestaltung <small>(II)</small>
 
 <div class="grid grid-cols-2">
   <ul class="list-disc list-inside">
@@ -345,7 +345,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 
 ---
 ---
-# Sprachliche Gestaltung
+# Sprachliche Gestaltung <small>(III)</small>
 
 <div class="grid grid-cols-2">
   <ul class="list-disc list-inside">
