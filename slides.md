@@ -225,7 +225,7 @@ layout: cover
 </p>
 </div>
 
-<p>~ Johann Wolfgang von Goethe</p>
+<p>~ Johann Wolfgang Goethe</p>
 
 <!--
 TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen zu Motiven!
