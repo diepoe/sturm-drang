@@ -3,7 +3,7 @@ theme: default
 # some information about the slides, markdown enabled
 info: |
   ## Sturm & Drang
-  Über die Epoche der jungen Dichter & Denker
+  Über die Jugendbewegung der jungen Dichter & Denker innerhalb der Aufklärung
 
   Ein Referat von Luca & Dietrich
 # persist drawings in exports and build
@@ -58,13 +58,15 @@ layout: cover
 
 - Strömung im Zeitraum 1765 bis 1785
 
-- Autoren meist aus ärmlichen Verhältnisse; Jugendbewegung ➡️ Protest
+- Autoren meist aus ärmlichen Verhältnisse
+
+- Jugendbewegung → Protest
 
 - Strömung ist dominiert von Dramen
 
 <v-click>
 
-- Autoren/Werke
+- **Autoren/Werke**
   - Johann Wolfgang Goethe (*Die Leiden des jungen Werther*)
   - Friedrich Schiller (*Die Räuber*)
 
@@ -85,7 +87,7 @@ CLICK 1: Autoren/Beispielwerke
 <div class="grid grid-cols-2 gap-1 lg:gap-2">
   <div class="col-span-1">
     <ul>
-      <li>zu dieser Zeit deutsche Kleinstaaterei ➡️ viele Konflikte</li>
+      <li>zu dieser Zeit deutsche Kleinstaaterei → viele Konflikte</li>
       <li>Bürgertum gewinnt an Relevanz</li>
       <li>Aufklärung dominiert zu dieser Zeit</li>
     </ul>
@@ -128,7 +130,7 @@ CLICK1: Fazit: Anti-Rationaliät
 
 - „Faustisches Gefühl“
 
-- Pantheismus (*„überall ist Gott“*)
+- Naturenthusiasmus bzw. Pantheismus (*„überall ist Gott“*)
 
 </v-clicks>
 
@@ -152,7 +154,7 @@ CLICKLIST 1: Motivliste:
 	- Ursprung aus Goethes Werk Faust
   - Drückt Gefühl der Zwiespältigkeit Gut ↔️ Böse, Pflicht ↔️ Wunsch, Lebensdrang und Todeswunschund zwischen Leidenschaft und Askese  aus
 
-- Pantheismus (Motto: *„überall ist Gott“*) ➡️ siehe Buch (siehe S. 204)
+- Naturenthusiasmus // Pantheismus (Motto: *„überall ist Gott“*) ➡️ siehe Buch (siehe S. 204)
   - Zusammensetzung des Begriffs:
     - Pan (griechischer Natur-/Hirtengott)
     - θεὺς (theùs) ➡️ Gott
@@ -168,7 +170,7 @@ layout: cover
 
 ---
 
-<h1 class="-pt-2">An den Mond(1778)</h1>
+<h1 class="-pt-2">An den Mond (1778)</h1>
 
 <div class="border-l-2 border-gray-400 px-4 text-sm font-bold dark:text-gray-100 columns-3 rounded-none bg-transparent">
 <p>
@@ -262,7 +264,6 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
     <li>Kreuzreimschema (abab)</li>
     <li>vier- und dreihebiger Trochäus</li>
     <li>stumpfe Kadenzen in jedem Vers</li>
-    <li>RHYTHMUS!!!?</li>
   </ul>
   <div class="relative inline-block text-lg">
       <p>
@@ -283,45 +284,58 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
   <ul class="list-disc list-inside">
     <li><span class="text-blue-400">Oxymoron</span></li>
     <li><span class="text-yellow-400">Personifikation</span></li>
+    <li><span class="text-purple-500">Apostrophe</span></li>
+    <li><i>Naturenthusiasmus</i></li>
+    <li><u>Faustisches Gefühl → Zwiegespaltenheit</u></li>
   </ul>
   
   <div class="text-black relative inline-block">
     <p>
       Füllest wieder Busch und Tal<br/>
-      Still mit <span class="bg-blue-400 rounded">Nebelglanz</span>.<br />
-      Lösest endlich auch einmal<br />
-      Meine Seele ganz;
+      Still mit <span class="bg-blue-400 text-blue-900 rounded">Nebelglanz</span>.<br />
+      <i>Lösest endlich auch einmal</i><br />
+      <i>Meine Seele ganz</i>;
     </p>
     <p>
-      Breitest über mein Gefild<br />
-      Lindern deinen Blick.<br />
+      <span class="bg-purple-300 text-purple-900 rounded">Breitest über mein Gefild</span><br />
+      <span class="bg-purple-300 text-purple-900 rounded">Lindernd deinen Blick.</span><br />
       Wie des Freundes Auge mild<br />
       Über mein Geschick.
     </p>
     <p>
-      Jeden Nachklang <span class="bg-yellow-400 rounded">fühlt mein Herz</span><br />
+      Jeden Nachklang <span class="bg-yellow-400 text-yellow-900 rounded">fühlt mein Herz</span><br />
       Froh und trüber Zeit,<br />
-      Wandle zwischen Freud' und Schmerz<br />
+      <u>Wandle zwischen Freud' und Schmerz</u><br />
       In der Einsamkeit
     </p>
   </div>
 </div>
 
 
-<!-- Pantheismus -->
+<!-- 
+- Eine Apostrophe: (betonte) Anrede
+- Naturenthusiasmus//Pantheismus ("Nebelglanz")
+  - Erscheinen des Mondes in der Natur als besonderer Moment
+
+- „Faustisches Gefühl“
+	- Ursprung aus Goethes Werk Faust
+  - Drückt Gefühl der Zwiespältigkeit Gut ↔️ Böse, Pflicht ↔️ Wunsch, Lebensdrang und Todeswunschund zwischen Leidenschaft und Askese  aus
+
+ -->
 
 
 ---
----
+
 # Sprachliche Gestaltung <small>(II)</small>
 
 <div class="grid grid-cols-2">
   <ul class="list-disc list-inside">
-    <li><span class="text-green-500">Metapher</span></li>
+    <li><span class="text-green-500">Metapher (+ Wiederholung)</span></li>
+    <li><span class="text-purple-500">Anapher</span></li>
   </ul>
   <div class="text-black relative inline-block">
     <p>
-      <span class="bg-green-400 rounded">Fließe, fließe, lieber Fluss!</span><br />
+      <span class="bg-green-400 text-green-900 rounded">Fließe, fließe, lieber Fluss!</span><br />
       Nimmer werd' ich froh,<br />
       So verrauschte Scherz und Kuss.<br />
       Und die Treue so.
@@ -333,15 +347,18 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
       Nimmer es vergisst!
     </p>
     <p>
-      Rausche, Fluss, das Tal entlang,<br />
+      <span class="bg-purple-300 text-purple-900 rounded">Rausche,</span> Fluss, das Tal entlang,<br />
       Ohne Rast und Ruh.<br />
-      Rausche, flüstre meinen Sang<br />
+      <span class="bg-purple-300 text-purple-900 rounded">Rausche,</span> flüstre meinen Sang<br />
       Melodien zu.
     </p>
   </div>
 </div>
 
-<!-- Metapher für Vergänglichkeit -->
+<!--
+- Metapher für Vergänglichkeit
+- Anapher & Wiederholung: Leidenschaftlichkeit
+-->
 
 ---
 ---
@@ -350,14 +367,15 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 <div class="grid grid-cols-2">
   <ul class="list-disc list-inside">
     <li><span class="text-pink-500">Antithese</span></li>
+    <i class="ml-2">→ Faustisches Gefühl</i>
     <li><span class="text-green-500">Metapher</span></li>
   </ul>
   <div class="text-black relative inline-block">
     <p>
-      Wenn du in der <span class="bg-pink-400 rounded">Winternacht</span><br />
-      Wütend überschwillst<br />
-      Oder um die <span class="bg-pink-400 rounded">Frühlingspracht</span><br />
-      Junger Knospen quillst.
+      Wenn du in der <span class="bg-pink-400 text-pink-900 rounded">Winternacht</span><br />
+      <i>Wütend überschwillst</i><br />
+      Oder um die <span class="bg-pink-400 text-pink-900 rounded">Frühlingspracht</span><br />
+      <i>Junger Knospen quillst.</i>
     </p>
     <p>
       Selig, wer sich vor der Welt<br />
@@ -368,17 +386,28 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
     <p>
       Was, von Menschen nicht gewusst<br />
       Oder nicht bedacht,<br />
-      Durch das Labyrinth der <span class="bg-green-400 rounded">Brust</span><br />
+      Durch das <span class="bg-green-400 text-green-900 rounded">Labyrinth der Brust</span><br />
       Wandelt in der Nacht.
     </p>
   </div>
 </div>
 
 
-<!-- Brust steht für die Gefühle 
+<!-- 
+- Antithese: Faustisches Gefühl (Zwiespalt)
+
+- Brust steht für die Gefühle 
 Sie sind ein Labyrinth also rätselhaft bzw undurchdringlich
 
-Er geht auf seine Haltung zur Epoche der Aufklärung ein-->
+Goethe geht auf seine Haltung zur Epoche der Aufklärung ein-->
+
+---
+---
+
+# Zusammenfassung
+
+- Gedicht leidenschaftliche Ansprache an Natur (Mond) → Naturenthusiasmus
+- Aufzeigen von Kontrasten in der Natur → Faustisches Gefühl
 
 ---
 ---
@@ -399,4 +428,3 @@ layout: cover
 <h1 class="text-center">Danke für eure Aufmerksamkeit</h1>
 
 <img src="/img/ricki.gif" alt="ricki" class="m-auto" />
-
