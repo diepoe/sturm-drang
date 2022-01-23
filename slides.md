@@ -168,9 +168,9 @@ layout: cover
 
 ---
 
-<h1 class="-mt-2">An den Mond</h1>
+<h1 class="-pt-2">An den Mond(1778)</h1>
 
-<div class="border-l-2 border-gray-400 px-4 text-lg dark:text-gray-100 columns-3 rounded-none bg-transparent">
+<div class="border-l-2 border-gray-400 px-4 text-sm font-bold dark:text-gray-100 columns-3 rounded-none bg-transparent">
 <p>
   Füllest wieder Busch und Tal<br/>
   Still mit Nebelglanz.<br />
@@ -235,11 +235,12 @@ layout: cover
 </p>
 </div>
 
-<p>~ Johann Wolfgang Goethe</p>
+<p class="text-sm italic">~ Johann Wolfgang von Goethe</p>
 
 <!--
 TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen zu Motiven!
--->
+
+Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei Strophen einteilen: Anrede an den Mond (Strophe 1-3), Anrede an den Fluss (Strophen 4, 6 u. 7) und Reflexion des lyrischen Ichs über seine seelische Befindlichkeit (Strophen 5, 8 u. 9). -->
 ---
 ---
 
@@ -253,24 +254,46 @@ TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen z
 
 ---
 ---
-# Formalien
+# Formale Gestaltung
 
 <ul class="list-disc list-inside">
-  <li>9 Strophne á 4 Verse</li>
-  <li>Kreuzreimschema</li>
+  <li>9 Strophen á 4 Verse</li>
+  <li>Kreuzreimschema (abab)</li>
   <li>vier- und dreihebiger Trochäus</li>
   <li>stumpfe Kadenzen in jedem Vers</li>
   <li>RHYTHMUS!!!?</li>
 </ul>
 
----
----
-# Sprache 
+<div class="relative -top-30">
+  <div class="relative left-150 inline-block text-lg">
+    <p>
+      Selig, wer sich vor der <span class="bg-yellow-500 rounded">Welt</span><span class="bg-white pr-5"></span><span class="text-yellow-500 font-bold">a</span><br />
+      Ohne Hass <span class="bg-blue-500 rounded">verschließt</span>,<span class="bg-white pr-14"></span><span class="text-blue-500 font-bold">b</span><br />
+      Einen Freund am Busen <span class="bg-yellow-500 rounded">hält</span><span class="bg-white pr-4"></span><span class="text-yellow-500 font-bold">a</span><br />
+      Und mit dem <span class="bg-blue-500 rounded">genießt</span>,<span class="bg-white pr-16"></span><span class="text-blue-500 font-bold">b</span>
+    </p>
+  </div>
+  
+  
+  
+</div>
 
-<div class="text-black relative left-140 inline-block">
+---
+---
+# Sprachliche Gestaltung 
+
+<ul class="list-disc list-inside">
+  <li><span class="text-blue-300">Oxymoron</span></li>
+  <li></li>
+  <li><span class="text-yellow-300">Personifikation</span></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<div class="text-black relative left-140 -top-45 inline-block">
   <p>
     Füllest wieder Busch und Tal<br/>
-    Still mit Nebelglanz.<br />
+    Still mit <span class="bg-blue-300 rounded">Nebelglanz</span>.<br />
     Lösest endlich auch einmal<br />
     Meine Seele ganz;
   </p>
@@ -283,20 +306,32 @@ TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen z
   </p>
   
   <p>
-    Jeden Nachklang fühlt mein Herz<br />
+    Jeden Nachklang <span class="bg-yellow-300 rounded">fühlt mein Herz</span><br />
     Froh und trüber Zeit,<br />
     Wandle zwischen Freud' und Schmerz<br />
     In der Einsamkeit
   </p>
 </div>
 
----
----
-# Sprache
 
-<div class="text-black relative left-140 inline-block">
+<!-- Pantheismus -->
+
+
+---
+---
+# Sprachliche Gestaltung
+
+<ul class="list-disc list-inside">
+  <li><span class="text-green-500">Metapher</span></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<div class="text-black relative left-140 -top-45 inline-block">
   <p>
-    Fließe, fließe, lieber Fluss!<br />
+    <span class="bg-green-500">Fließe, fließe, lieber Fluss!</span><br />
     Nimmer werd' ich froh,<br />
     So verrauschte Scherz und Kuss.<br />
     Und die Treue so.
@@ -317,15 +352,25 @@ TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen z
   </p>
 </div>
 
----
----
-# Sprache 
+<!-- Metapher für Vergänglichkeit -->
 
-<div class="text-black relative left-140 inline-block">
+---
+---
+# Sprachliche Gestaltung
+
+<ul class="list-disc list-inside">
+  <li><span class="text-pink-500">Antithese</span></li>
+  <li><span class="text-green-500">Metapher</span></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<div class="text-black relative left-140 -top-45 inline-block">
   <p>
-    Wenn du in der Winternacht<br />
+    Wenn du in der <span class="bg-pink-500 rounded">Winternacht</span><br />
     Wütend überschwillst<br />
-    Oder um die Frühlingspracht<br />
+    Oder um die <span class="bg-pink-500 rounded">Frühlingspracht</span><br />
     Junger Knospen quillst.
   </p>
   
@@ -339,10 +384,16 @@ TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen z
   <p>
     Was, von Menschen nicht gewusst<br />
     Oder nicht bedacht,<br />
-    Durch das Labyrinth der Brust<br />
+    Durch das Labyrinth der <span class="bg-green-500">Brust</span><br />
     Wandelt in der Nacht.
   </p>
 </div>
+
+
+<!-- Brust steht für die Gefühle 
+Sie sind ein Labyrinth also rätselhaft bzw undurchdringlich
+
+Er geht auf seine Haltung zur Epoche der Aufklärung ein-->
 
 ---
 ---
