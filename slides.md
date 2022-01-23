@@ -82,13 +82,23 @@ CLICK 1: Autoren/Beispielwerke
 
 # Geschichtlicher Hintergrund
 
-- zu dieser Zeit deutsche Kleinstaaterei ➡️ viele Konflikte
-- Bürgertum gewinnt an Relevanz
-- Aufklärung dominiert zu dieser Zeit
+<div class="grid grid-cols-2 gap-1 lg:gap-2">
+  <div class="col-span-1">
+    <ul>
+      <li>zu dieser Zeit deutsche Kleinstaaterei ➡️ viele Konflikte</li>
+      <li>Bürgertum gewinnt an Relevanz</li>
+      <li>Aufklärung dominiert zu dieser Zeit</li>
+    </ul>
+    <v-click>
+      <div class="px-3 py-4 my-3 mr-2 rounded-md w-full bg-gray-100 dark:bg-gray-800"><span class="mr-0.5">➡️</span> Autoren richten sich gegen Rationalität der Aufklärung</div>
+    </v-click>
+  </div>
+  <div class="col-span-1">
+    <img src="/img/HRR_1789.png" alt="Heiliges Römisches Reich 1789" class="" />
+  </div>
+</div>
 
-<v-click>
-  <div class="px-3 py-4 my-3 rounded-md w-full bg-gray-100 dark:bg-gray-800"><span class="mr-1">➡️</span> Autoren richten sich gegen Rationalität der Aufklärung</div>
-</v-click>
+
 
 <!--
 Rationalität und genaues Planen wurde zur Expansion strikter Verwaltungssysteme genutzt, Sturm und Drang protestiert gegen diese Reduzierung der Menschen auf ihren Nutzen für ein System und für das emphatische Wesen im Menschen
@@ -341,6 +351,7 @@ TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen z
 <ul class="list-disc list-inside">
   <li>Schulbuch</li>
   <li><a href="https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/" target="_blank">https://www.studysmarter.de/schule/deutsch/literaturepochen/sturm-und-drang/</a></li>
+  <li><a target="_blank" href="https://de.wikipedia.org/wiki/Datei:HRR_1789.png">https://de.wikipedia.org/wiki/Datei:HRR_1789.png</a></li>
   <li><a target="_blank" href="https://prezi.com/ahd1yvhwpqgb/das-kindsmordmotiv-im-sturm-und-drang/">https://prezi.com/ahd1yvhwpqgb/das-kindsmordmotiv-im-sturm-und-drang/</a></li>
   <li>giphy.com</li>
 </ul>
