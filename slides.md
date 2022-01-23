@@ -29,14 +29,14 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 <ol class="list-decimal list-inside">
   <li>
-      Hintergrund der Epoche
+      Hintergrund der Strömung
   </li>
   <ul class="ml-4 pl-2 list-inside" style="list-style-type: lower-latin;">
     <li>Geschichtlicher Hintergrund</li>
     <li>Literarische Merkmale</li>
   </ul>
   <li class="mt-2">
-      Literarische Betrachtung der Epoche
+      Literarische Betrachtung der Strömung
   </li>
   <ul class="ml-4 pl-2 list-inside" style="list-style-type: lower-latin;">
     <li>Beispielgedicht</li>
@@ -48,7 +48,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 layout: cover
 ---
 
-# Hintergrund der Epoche
+# Hintergrund der Strömung
 
 ---
 
@@ -135,7 +135,7 @@ CLICK1: Fazit: Anti-Rationaliät
 </v-clicks>
 
 <!--
-❗❗❗Die Leitbegriffe dieser Epoche waren Freiheit, Natur, Genie und Gefühl.❗❗❗
+❗❗❗Die Leitbegriffe dieser Strömung waren Freiheit, Natur, Genie und Gefühl.❗❗❗
 
 CLICKLIST 1: Motivliste:
 
@@ -166,7 +166,7 @@ CLICKLIST 1: Motivliste:
 layout: cover
 ---
 
-# Literarische Betrachtung der Epoche
+# Literarische Betrachtung der Strömung
 
 ---
 
