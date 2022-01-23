@@ -156,7 +156,7 @@ CLICKLIST 1: Motivliste:
   - Zusammensetzung des Begriffs:
     - Pan (griechischer Natur-/Hirtengott)
     - θεὺς (theùs) ➡️ Gott
-  - Einheit von Gott und Natur; Spinoza: „Deus sive natura“ (Gott ist Natur)
+  - Einheit von Gott und Natur; Philosoph Spinoza (1632-1677 VOR DEM STURM & DRANG!): „Deus sive natura“ (Gott ist Natur)
   - Goethe verknüpft dies mit dem Gefühl der Einheit von Allem
 -->
 
