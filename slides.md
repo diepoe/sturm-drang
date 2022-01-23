@@ -256,27 +256,24 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 ---
 # Formale Gestaltung
 
-<ul class="list-disc list-inside">
-  <li>9 Strophen á 4 Verse</li>
-  <li>Kreuzreimschema (abab)</li>
-  <li>vier- und dreihebiger Trochäus</li>
-  <li>stumpfe Kadenzen in jedem Vers</li>
-  <li>RHYTHMUS!!!?</li>
-</ul>
-
-<div class="relative -top-30">
-  <div class="relative left-150 inline-block text-lg">
-    <p>
-      Selig, wer sich vor der <span class="bg-yellow-500 rounded">Welt</span><span class="bg-white pr-5"></span><span class="text-yellow-500 font-bold">a</span><br />
-      Ohne Hass <span class="bg-blue-500 rounded">verschließt</span>,<span class="bg-white pr-14"></span><span class="text-blue-500 font-bold">b</span><br />
-      Einen Freund am Busen <span class="bg-yellow-500 rounded">hält</span><span class="bg-white pr-4"></span><span class="text-yellow-500 font-bold">a</span><br />
-      Und mit dem <span class="bg-blue-500 rounded">genießt</span>,<span class="bg-white pr-16"></span><span class="text-blue-500 font-bold">b</span>
-    </p>
-  </div>
-  
-  
-  
+<div class="grid grid-cols-2">
+  <ul class="list-disc list-inside">
+    <li>9 Strophen á 4 Verse</li>
+    <li>Kreuzreimschema (abab)</li>
+    <li>vier- und dreihebiger Trochäus</li>
+    <li>stumpfe Kadenzen in jedem Vers</li>
+    <li>RHYTHMUS!!!?</li>
+  </ul>
+  <div class="relative inline-block text-lg">
+      <p>
+        Selig, wer sich vor der <span class="bg-yellow-400 rounded">Welt</span><span class="bg-white pr-5"></span><span class="text-yellow-500 font-bold">a</span><br />
+        Ohne Hass <span class="bg-blue-400 rounded">verschließt</span>,<span class="bg-white pr-14"></span><span class="text-blue-500 font-bold">b</span><br />
+        Einen Freund am Busen <span class="bg-yellow-400 rounded">hält</span><span class="bg-white pr-4"></span><span class="text-yellow-500 font-bold">a</span><br />
+        Und mit dem <span class="bg-blue-400 rounded">genießt</span>,<span class="bg-white pr-16"></span><span class="text-blue-500 font-bold">b</span>
+      </p>
+    </div>
 </div>
+
 
 ---
 ---
@@ -357,9 +354,9 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
   </ul>
   <div class="text-black relative inline-block">
     <p>
-      Wenn du in der <span class="bg-pink-500 rounded">Winternacht</span><br />
+      Wenn du in der <span class="bg-pink-400 rounded">Winternacht</span><br />
       Wütend überschwillst<br />
-      Oder um die <span class="bg-pink-500 rounded">Frühlingspracht</span><br />
+      Oder um die <span class="bg-pink-400 rounded">Frühlingspracht</span><br />
       Junger Knospen quillst.
     </p>
     <p>
@@ -371,7 +368,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
     <p>
       Was, von Menschen nicht gewusst<br />
       Oder nicht bedacht,<br />
-      Durch das Labyrinth der <span class="bg-green-500 rounded">Brust</span><br />
+      Durch das Labyrinth der <span class="bg-green-400 rounded">Brust</span><br />
       Wandelt in der Nacht.
     </p>
   </div>
