@@ -239,8 +239,6 @@ layout: cover
 
 <p class="text-sm italic">~ Johann Wolfgang Goethe</p>
 
-<!--
-Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei Strophen einteilen: Anrede an den Mond (Strophe 1-3), Anrede an den Fluss (Strophen 4, 6 u. 7) und Reflexion des lyrischen Ichs über seine seelische Befindlichkeit (Strophen 5, 8 u. 9). -->
 ---
 ---
 
@@ -252,6 +250,8 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 </ul>
 <!-- lyrisches Ich spricht mit Mond als Gegenüber
 -> Kann man auch aus Titel gewinnen
+
+Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei Strophen einteilen: Anrede an den Mond (Strophe 1-3), Anrede an den Fluss (Strophen 4, 6 u. 7) und Reflexion des lyrischen Ichs über seine seelische Befindlichkeit (Strophen 5, 8 u. 9).
 -->
 
 ---
