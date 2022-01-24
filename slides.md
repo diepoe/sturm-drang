@@ -239,10 +239,6 @@ layout: cover
 
 <p class="text-sm italic">~ Johann Wolfgang Goethe</p>
 
-<!--
-TODO: In Analyse Emotionalität des Gedichtes betonen!!!!!!! && Verknüpfungen zu Motiven!
-
-Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei Strophen einteilen: Anrede an den Mond (Strophe 1-3), Anrede an den Fluss (Strophen 4, 6 u. 7) und Reflexion des lyrischen Ichs über seine seelische Befindlichkeit (Strophen 5, 8 u. 9). -->
 ---
 ---
 
@@ -250,9 +246,13 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
 <ul class="list-disc list-inside">
   <li>Beschreibung einer nächtlichen Naturszene</li>
   <li>Thema ist der Verlust von Liebe und Freundschaft</li>
-  <li>Der einsame, nächtliche Rückzug in die Natur steht für den Trost der Enttäuschungen und Frustationen</li>
+  <li>Rückzug in die Natur bei Nacht</li>
 </ul>
+<!-- lyrisches Ich spricht mit Mond als Gegenüber
+-> Kann man auch aus Titel gewinnen
 
+Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei Strophen einteilen: Anrede an den Mond (Strophe 1-3), Anrede an den Fluss (Strophen 4, 6 u. 7) und Reflexion des lyrischen Ichs über seine seelische Befindlichkeit (Strophen 5, 8 u. 9).
+-->
 
 ---
 ---
@@ -275,6 +275,8 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
     </div>
 </div>
 
+<!-- Trochäus: Erste von 2 Silben betont. Andere unbetont.
+-->
 
 ---
 ---
