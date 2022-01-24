@@ -275,8 +275,7 @@ Vereinfachend könnte man das Gedicht in drei inhaltliche Abschnitte zu je drei 
     </div>
 </div>
 
-<!-- Trochäus:
-Erste von 2 Silben betont. Andere unbetont.
+<!-- Trochäus: Erste von 2 Silben betont. Andere unbetont.
 -->
 
 ---
