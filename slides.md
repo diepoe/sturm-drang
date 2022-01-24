@@ -172,7 +172,7 @@ layout: cover
 
 <h1 class="-pt-2">An den Mond (1778)</h1>
 
-<div class="border-l-2 border-gray-400 px-4 text-sm font-bold dark:text-gray-100 columns-3 rounded-none bg-transparent">
+<div class="border-l-2 border-gray-400 px-4 text-sm font-medium dark:text-gray-100 columns-3 rounded-none bg-transparent">
 <p>
   Füllest wieder Busch und Tal<br/>
   Still mit Nebelglanz.<br />
@@ -182,7 +182,7 @@ layout: cover
 
 <p>
   Breitest über mein Gefild<br />
-  Lindern deinen Blick.<br />
+  Lindernd deinen Blick.<br />
   Wie des Freundes Auge mild<br />
   Über mein Geschick.
 </p>
@@ -237,7 +237,7 @@ layout: cover
 </p>
 </div>
 
-<p class="text-sm italic">~ Johann Wolfgang Goethe</p>
+<p class="text-sm italic font-medium">~ Johann Wolfgang Goethe</p>
 
 ---
 ---
